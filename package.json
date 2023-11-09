@@ -2,7 +2,7 @@
   "name": "rental-car-ts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Voloshun555.github.io/rental-cars-ts/",
+  "homepage": "https://Voloshun555.github.io/rental-car-ts/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",
