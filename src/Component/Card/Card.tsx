@@ -29,7 +29,7 @@ export function Card({
   rentalConditions,
   mileage,
 }: IData) {
-  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
 
   const openModal = () => {
     setIsModalOpen(true);
